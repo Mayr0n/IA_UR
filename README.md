@@ -14,8 +14,6 @@ et ajouter le fichier .jar.
 
 ```c
 dependencies {
-    compile "net.dv8tion:JDA:4.1.1_107"
-    compile "org.slf4j:slf4j-nop:1.7.25"
     compile files('libs/IA-UR.jar')
 }
 ```
